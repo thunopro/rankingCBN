@@ -1,0 +1,35 @@
+name: CF Tracker Auto Update
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # Tự động chạy mỗi 12 tiếng (00:00 và 12:00 UTC)
+  workflow_dispatch:      # Cho phép bạn bấm nút "Run workflow" để chạy thử thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python_version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run crawl script
+        run: python get.py # Chạy file crawl của bạn
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/recent_activity.json
+          # Chỉ commit nếu có sự thay đổi dữ liệu để tránh lỗi
+          git commit -m "Auto update: 12h cycle [skip ci]" || echo "No changes to commit"
+          git push
