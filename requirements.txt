@@ -1,0 +1,4 @@
+disscord.py
+pytz 
+requests
+apscheduler
