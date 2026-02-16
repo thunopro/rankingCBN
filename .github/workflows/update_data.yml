@@ -1,35 +1,49 @@
-name: CF Tracker Auto Update
+name: CF Tracker Auto Update and Deploy
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # Tự động chạy mỗi 12 tiếng (00:00 và 12:00 UTC)
-  workflow_dispatch:      # Cho phép bạn bấm nút "Run workflow" để chạy thử thủ công
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python_version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Run crawl script
-        run: python get.py # Chạy file crawl của bạn
+        run: python get.py
 
-      - name: Commit and Push changes
+      - name: Commit data changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/recent_activity.json
-          # Chỉ commit nếu có sự thay đổi dữ liệu để tránh lỗi
-          git commit -m "Auto update: 12h cycle [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto update data [skip ci]" || echo "No changes to commit"
           git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' # Đẩy toàn bộ thư mục (bao gồm index.html) lên web
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
