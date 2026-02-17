@@ -3,6 +3,13 @@
         "handle": "viobow",
         "name": "Lê Đình Triều Vĩ",
         "verdict": "OK",
+        "creationTimeSeconds": 1771245459,
+        "problem": "2195F"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triều Vĩ",
+        "verdict": "OK",
         "creationTimeSeconds": 1771172547,
         "problem": "2195E"
     },
@@ -278,34 +285,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1770448491,
         "problem": "600E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1770423303,
-        "problem": "2096E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1770421782,
-        "problem": "2096D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1770421749,
-        "problem": "2096C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770385954,
-        "problem": "2104E"
     },
     {
         "handle": "leducthang_",
@@ -1027,34 +1006,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1770560225,
         "problem": "2193D"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1770425114,
-        "problem": "2193E"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1770424858,
-        "problem": "2193E"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1770424750,
-        "problem": "2193E"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1770424675,
-        "problem": "2193E"
     },
     {
         "handle": "congmanh_9227",
