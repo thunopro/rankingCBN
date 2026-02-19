@@ -203,34 +203,6 @@
         "problem": "2194D"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770623912,
-        "problem": "2094G"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770621160,
-        "problem": "2096D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770607712,
-        "problem": "2096C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triều Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1770607649,
-        "problem": "2096C"
-    },
-    {
         "handle": "leducthang_",
         "name": "Lê Đức Thắng",
         "verdict": "OK",
@@ -609,27 +581,6 @@
         "problem": "2197A"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770624636,
-        "problem": "2194F1"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1770624531,
-        "problem": "2194F1"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770608985,
-        "problem": "2194F1"
-    },
-    {
         "handle": "trinhducphat",
         "name": "Trịnh Đức Phát",
         "verdict": "OK",
@@ -859,20 +810,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1770733568,
         "problem": "2185A"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1770619974,
-        "problem": "2191B"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1770619872,
-        "problem": "2191B"
     },
     {
         "handle": "congmanh_9227",
