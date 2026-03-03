@@ -2,6 +2,13 @@
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1772468288,
+        "problem": "2098B"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
         "verdict": "OK",
         "creationTimeSeconds": 1772378285,
         "problem": "2098A"
@@ -460,13 +467,6 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1771646598,
         "problem": "1994E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1771594827,
-        "problem": "1994D"
     },
     {
         "handle": "leducthang_",
