@@ -2,6 +2,13 @@
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1772641762,
+        "problem": "2200G"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1772611864,
         "problem": "485D"
