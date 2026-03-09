@@ -140,27 +140,6 @@
         "problem": "2200A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1772183940,
-        "problem": "2090E1"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1772180929,
-        "problem": "2091F"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1772159290,
-        "problem": "2205F"
-    },
-    {
         "handle": "leducthang_",
         "name": "Lê Đức Thắng",
         "verdict": "WRONG_ANSWER",
@@ -322,32 +301,18 @@
         "problem": "2056D"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1772185190,
-        "problem": "2056D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1772182967,
-        "problem": "2056D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
-        "creationTimeSeconds": 1772178708,
-        "problem": "2201A1"
+        "creationTimeSeconds": 1773029394,
+        "problem": "996A"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
-        "creationTimeSeconds": 1772159747,
-        "problem": "2205E"
+        "creationTimeSeconds": 1773024945,
+        "problem": "2207A"
     },
     {
         "handle": "thnhann",
@@ -616,18 +581,25 @@
         "problem": "2200A"
     },
     {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
+        "handle": "congmanh_9227",
+        "name": "Nguyễn Công Mạnh",
         "verdict": "OK",
-        "creationTimeSeconds": 1772183846,
-        "problem": "281A"
+        "creationTimeSeconds": 1772204415,
+        "problem": "2200C"
     },
     {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
+        "handle": "congmanh_9227",
+        "name": "Nguyễn Công Mạnh",
         "verdict": "OK",
-        "creationTimeSeconds": 1772180991,
-        "problem": "448B"
+        "creationTimeSeconds": 1772204159,
+        "problem": "2200B"
+    },
+    {
+        "handle": "congmanh_9227",
+        "name": "Nguyễn Công Mạnh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772204038,
+        "problem": "2200A"
     },
     {
         "handle": "ngxnlgbao",
@@ -732,6 +704,139 @@
         "name": "Nguyễn Lại Gia Bảo",
         "verdict": "OK",
         "creationTimeSeconds": 1772204967,
+        "problem": "2200A"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772987696,
+        "problem": "2207C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772986878,
+        "problem": "2207C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772982726,
+        "problem": "2207A"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772982366,
+        "problem": "2207A"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772982149,
+        "problem": "2207A"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772207018,
+        "problem": "2200D"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772206787,
+        "problem": "2200C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772205538,
+        "problem": "2200D"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772204439,
+        "problem": "2200C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772203776,
+        "problem": "2200B"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772203318,
+        "problem": "2200A"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772209034,
+        "problem": "2200E"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772208848,
+        "problem": "2200D"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772206939,
+        "problem": "2200G"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772205988,
+        "problem": "2200F"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772203702,
+        "problem": "2200C"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772203324,
+        "problem": "2200B"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1772203139,
+        "problem": "2200A"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1772203020,
         "problem": "2200A"
     }
 ]
