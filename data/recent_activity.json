@@ -77,13 +77,6 @@
         "problem": "2098B"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1772378285,
-        "problem": "2098A"
-    },
-    {
         "handle": "leducthang_",
         "name": "Lê Đức Thắng",
         "verdict": "WRONG_ANSWER",
