@@ -499,6 +499,13 @@
     {
         "handle": "minhnguyendinhngoc",
         "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1773414099,
+        "problem": "1398C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1772987696,
         "problem": "2207C"
