@@ -535,6 +535,20 @@
         "handle": "khuongvu100110",
         "name": "Khương Minh Vũ",
         "verdict": "OK",
+        "creationTimeSeconds": 1773673674,
+        "problem": "108A"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "OK",
+        "creationTimeSeconds": 1773672270,
+        "problem": "126B"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "OK",
         "creationTimeSeconds": 1773643552,
         "problem": "165C"
     },
@@ -677,6 +691,20 @@
         "verdict": "OK",
         "creationTimeSeconds": 1773501022,
         "problem": "2208A"
+    },
+    {
+        "handle": "ngxnlgbao",
+        "name": "Nguyễn Lại Gia Bảo",
+        "verdict": "OK",
+        "creationTimeSeconds": 1773677476,
+        "problem": "2204B"
+    },
+    {
+        "handle": "ngxnlgbao",
+        "name": "Nguyễn Lại Gia Bảo",
+        "verdict": "OK",
+        "creationTimeSeconds": 1773676549,
+        "problem": "2204A"
     },
     {
         "handle": "ngxnlgbao",
