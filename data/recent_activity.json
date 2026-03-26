@@ -294,13 +294,6 @@
         "problem": "2206E"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773651761,
-        "problem": "2207D"
-    },
-    {
         "handle": "khuongvu100110",
         "name": "Khương Minh Vũ",
         "verdict": "OK",
@@ -418,27 +411,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1773672270,
         "problem": "126B"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773643552,
-        "problem": "165C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1773643448,
-        "problem": "165C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773630998,
-        "problem": "186A"
     },
     {
         "handle": "truongbooya",
