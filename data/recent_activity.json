@@ -399,20 +399,6 @@
         "problem": "100589G"
     },
     {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773673674,
-        "problem": "108A"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773672270,
-        "problem": "126B"
-    },
-    {
         "handle": "truongbooya",
         "name": "Linh Quang Trưởng",
         "verdict": "WRONG_ANSWER",
@@ -509,20 +495,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1774106012,
         "problem": "2209A"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773677476,
-        "problem": "2204B"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1773676549,
-        "problem": "2204A"
     },
     {
         "handle": "minhnguyendinhngoc",
