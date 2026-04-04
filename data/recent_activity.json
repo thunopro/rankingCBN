@@ -504,13 +504,6 @@
         "problem": "837D"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1774433345,
-        "problem": "2195E"
-    },
-    {
         "handle": "thnhann",
         "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
@@ -721,34 +714,6 @@
         "problem": "102672D"
     },
     {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1774427324,
-        "problem": "1316E"
-    },
-    {
-        "handle": "truongbooya",
-        "name": "Linh Quang Trưởng",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1774430127,
-        "problem": "1316E"
-    },
-    {
-        "handle": "truongbooya",
-        "name": "Linh Quang Trưởng",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1774430010,
-        "problem": "1316E"
-    },
-    {
-        "handle": "truongbooya",
-        "name": "Linh Quang Trưởng",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1774429831,
-        "problem": "1316E"
-    },
-    {
         "handle": "congmanh_9227",
         "name": "Nguyễn Công Mạnh",
         "verdict": "OK",
@@ -929,12 +894,5 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1774796186,
         "problem": "2210A"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "OK",
-        "creationTimeSeconds": 1774428807,
-        "problem": "1316E"
     }
 ]
