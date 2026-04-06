@@ -406,13 +406,6 @@
         "problem": "2209D"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1774598324,
-        "problem": "2167F"
-    },
-    {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "OK",
@@ -922,13 +915,6 @@
         "verdict": "SKIPPED",
         "creationTimeSeconds": 1774795798,
         "problem": "2210A"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1774594404,
-        "problem": "102672D"
     },
     {
         "handle": "congmanh_9227",
