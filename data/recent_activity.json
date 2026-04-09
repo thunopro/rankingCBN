@@ -448,34 +448,6 @@
         "problem": "2214A"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1774858461,
-        "problem": "2210E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "IDLENESS_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1774858408,
-        "problem": "2210E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "IDLENESS_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1774857919,
-        "problem": "2210E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1774841285,
-        "problem": "2210C2"
-    },
-    {
         "handle": "VuXuanDu",
         "name": "Vũ Xuân Du",
         "verdict": "OK",
