@@ -168,27 +168,6 @@
         "problem": "2217F"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1775626138,
-        "problem": "2217E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1775626038,
-        "problem": "2217E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1775625705,
-        "problem": "2217E"
-    },
-    {
         "handle": "ngxnlgbao",
         "name": "Nguyễn Lại Gia Bảo",
         "verdict": "OK",
