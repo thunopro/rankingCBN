@@ -185,6 +185,13 @@
         "handle": "thnhann",
         "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
+        "creationTimeSeconds": 1776655512,
+        "problem": "1184C2"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
         "creationTimeSeconds": 1776613015,
         "problem": "1093G"
     },
@@ -238,11 +245,18 @@
         "problem": "2219A"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
+        "handle": "ngxnlgbao",
+        "name": "Nguyễn Lại Gia Bảo",
         "verdict": "OK",
-        "creationTimeSeconds": 1775811335,
-        "problem": "2217F"
+        "creationTimeSeconds": 1776668787,
+        "problem": "1538A"
+    },
+    {
+        "handle": "ngxnlgbao",
+        "name": "Nguyễn Lại Gia Bảo",
+        "verdict": "OK",
+        "creationTimeSeconds": 1776657433,
+        "problem": "702A"
     },
     {
         "handle": "ngxnlgbao",
@@ -306,19 +320,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1776092784,
         "problem": "2220A"
-    },
-    {
-        "handle": "tmviet12310",
-        "name": "Trần Minh Việt",
-        "verdict": "OK",
-        "creationTimeSeconds": 1775788262,
-        "problem": "547B"
-    },
-    {
-        "handle": "tmviet12310",
-        "name": "Trần Minh Việt",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1775787971,
-        "problem": "547B"
     }
 ]
