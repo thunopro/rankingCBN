@@ -59,6 +59,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1776919822,
+        "problem": "1093D"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1776850487,
         "problem": "2104D"
     },
@@ -229,6 +236,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1776142564,
         "problem": "762E"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1776910189,
+        "problem": "2225D"
     },
     {
         "handle": "thnhann",
