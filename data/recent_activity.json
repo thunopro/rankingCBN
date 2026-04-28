@@ -63,13 +63,6 @@
         "problem": "2225F"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776443072,
-        "problem": "71A"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "WRONG_ANSWER",
