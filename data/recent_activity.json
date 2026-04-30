@@ -364,13 +364,6 @@
         "problem": "2217G"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776655512,
-        "problem": "1184C2"
-    },
-    {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
         "verdict": "OK",
@@ -488,19 +481,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1776747538,
         "problem": "894A"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776668787,
-        "problem": "1538A"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776657433,
-        "problem": "702A"
     }
 ]
