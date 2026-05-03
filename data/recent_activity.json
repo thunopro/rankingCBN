@@ -91,13 +91,6 @@
         "problem": "2222A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776872454,
-        "problem": "2225A"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
@@ -420,48 +413,6 @@
         "problem": "2225E"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776910189,
-        "problem": "2225D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1776909395,
-        "problem": "2225D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1776909212,
-        "problem": "2225D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776905684,
-        "problem": "2225C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776905291,
-        "problem": "2225B"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1776904763,
-        "problem": "2225A"
-    },
-    {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
         "verdict": "OK",
@@ -635,5 +586,19 @@
         "verdict": "OK",
         "creationTimeSeconds": 1777128369,
         "problem": "2222A"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1777736297,
+        "problem": "2227C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1777735868,
+        "problem": "2226A"
     }
 ]
