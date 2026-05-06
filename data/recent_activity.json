@@ -2,6 +2,27 @@
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
+        "verdict": "OK",
+        "creationTimeSeconds": 1777996507,
+        "problem": "2227F"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
+        "verdict": "OK",
+        "creationTimeSeconds": 1777989766,
+        "problem": "2227C"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1777988063,
+        "problem": "2227C"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1777561045,
         "problem": "2227C"
@@ -56,39 +77,11 @@
         "problem": "2226A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
-        "creationTimeSeconds": 1777135350,
-        "problem": "2222D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777133510,
-        "problem": "2222C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1777132068,
-        "problem": "2222C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777129349,
-        "problem": "2222B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777128361,
-        "problem": "2222A"
+        "creationTimeSeconds": 1777964233,
+        "problem": "1363E"
     },
     {
         "handle": "nqhuy1405",
@@ -154,25 +147,11 @@
         "problem": "1167E"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
-        "creationTimeSeconds": 1777127939,
-        "problem": "1536D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777093397,
-        "problem": "1198C"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777085221,
-        "problem": "1101D"
+        "creationTimeSeconds": 1777985051,
+        "problem": "2126D"
     },
     {
         "handle": "thnhann",
@@ -593,55 +572,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1777560105,
         "problem": "2227A"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777148704,
-        "problem": "2126B"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777136334,
-        "problem": "2222D"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777135485,
-        "problem": "2222C"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777132095,
-        "problem": "2222C"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777131353,
-        "problem": "2222C"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777128655,
-        "problem": "2222B"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777128369,
-        "problem": "2222A"
     },
     {
         "handle": "minhnguyendinhngoc",
