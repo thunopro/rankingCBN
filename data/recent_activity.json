@@ -455,55 +455,6 @@
         "problem": "449B"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777827224,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1777826926,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1777826760,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777826566,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777826424,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1777826222,
-        "problem": "2222E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777818236,
-        "problem": "2222D"
-    },
-    {
         "handle": "tuanminh2010",
         "name": "Nguyễn Đức Tuấn Minh",
         "verdict": "OK",
