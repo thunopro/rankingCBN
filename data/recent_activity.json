@@ -3,6 +3,13 @@
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
         "verdict": "OK",
+        "creationTimeSeconds": 1778863271,
+        "problem": "231A"
+    },
+    {
+        "handle": "viobow",
+        "name": "Lê Đình Triệu Vĩ",
+        "verdict": "OK",
         "creationTimeSeconds": 1778743514,
         "problem": "620E"
     },
@@ -215,20 +222,6 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1778073313,
         "problem": "2224A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777996507,
-        "problem": "2227F"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1777989766,
-        "problem": "2227C"
     },
     {
         "handle": "Nmt_1",
