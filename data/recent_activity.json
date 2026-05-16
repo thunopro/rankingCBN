@@ -227,6 +227,13 @@
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "OK",
+        "creationTimeSeconds": 1778924481,
+        "problem": "381A"
+    },
+    {
+        "handle": "Nmt_1",
+        "name": "Nguyễn Minh Tuấn",
+        "verdict": "OK",
         "creationTimeSeconds": 1778662078,
         "problem": "597C"
     },
@@ -439,20 +446,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1778081475,
         "problem": "1555E"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1778062014,
-        "problem": "1975E"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1778056079,
-        "problem": "1978E"
     },
     {
         "handle": "thnhann",
