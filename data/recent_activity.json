@@ -434,13 +434,6 @@
         "problem": "2072E"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1778419405,
-        "problem": "2226F"
-    },
-    {
         "handle": "tuanminh2010",
         "name": "Nguyễn Đức Tuấn Minh",
         "verdict": "OK",
@@ -509,6 +502,20 @@
         "verdict": "TIME_LIMIT_EXCEEDED",
         "creationTimeSeconds": 1778662081,
         "problem": "597C"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "OK",
+        "creationTimeSeconds": 1779284968,
+        "problem": "25D"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1779283274,
+        "problem": "25D"
     },
     {
         "handle": "khuongvu100110",
@@ -740,41 +747,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1778645002,
         "problem": "597C"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1778421247,
-        "problem": "2226B"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1778420747,
-        "problem": "2226B"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "OK",
-        "creationTimeSeconds": 1778420409,
-        "problem": "2227B"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "OK",
-        "creationTimeSeconds": 1778419730,
-        "problem": "2227A"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1778419539,
-        "problem": "2227A"
     },
     {
         "handle": "tmviet12310",
