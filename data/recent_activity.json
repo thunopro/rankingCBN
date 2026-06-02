@@ -310,6 +310,20 @@
     {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1780368564,
+        "problem": "1470D"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
+        "creationTimeSeconds": 1780361268,
+        "problem": "1996G"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
         "creationTimeSeconds": 1780307094,
         "problem": "2018D"
@@ -481,6 +495,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1779678862,
         "problem": "1437E"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1780366018,
+        "problem": "2200F"
     },
     {
         "handle": "thnhann",
