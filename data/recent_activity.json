@@ -623,62 +623,6 @@
         "problem": "2229E"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779592562,
-        "problem": "2229D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779590030,
-        "problem": "2229C2"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1779589906,
-        "problem": "2229C2"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779588262,
-        "problem": "2229C1"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1779588089,
-        "problem": "2229C1"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779587754,
-        "problem": "2229B"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779587393,
-        "problem": "2229A"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1779587260,
-        "problem": "2229A"
-    },
-    {
         "handle": "khuongvu100110",
         "name": "Khương Minh Vũ",
         "verdict": "OK",
@@ -775,20 +719,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1779597514,
         "problem": "2229A"
-    },
-    {
-        "handle": "congmanh_9227",
-        "name": "Nguyễn Công Mạnh",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1779556119,
-        "problem": "2229C2"
-    },
-    {
-        "handle": "congmanh_9227",
-        "name": "Nguyễn Công Mạnh",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779553026,
-        "problem": "2229C1"
     },
     {
         "handle": "tmviet12310",
