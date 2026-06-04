@@ -532,13 +532,6 @@
         "problem": "1196F"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779678862,
-        "problem": "1437E"
-    },
-    {
         "handle": "thnhann",
         "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
@@ -607,27 +600,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1779723677,
         "problem": "2229F"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779641800,
-        "problem": "2229E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1779641726,
-        "problem": "2229E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1779641688,
-        "problem": "2229E"
     },
     {
         "handle": "khuongvu100110",
