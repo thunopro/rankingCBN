@@ -150,6 +150,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1780763037,
+        "problem": "1657E"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1780644031,
         "problem": "1311E"
     },
@@ -439,26 +446,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1780151932,
         "problem": "2232A"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1779888400,
-        "problem": "1526B"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1779888326,
-        "problem": "1526B"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1779888220,
-        "problem": "1526B"
     }
 ]
