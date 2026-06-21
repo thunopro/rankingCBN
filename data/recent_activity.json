@@ -310,6 +310,20 @@
     {
         "handle": "thnhann",
         "name": "Nguyễn Thiện Nhân",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1782044296,
+        "problem": "716E"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1782030545,
+        "problem": "766E"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
         "creationTimeSeconds": 1781964569,
         "problem": "2237F"
@@ -481,13 +495,6 @@
         "verdict": "TIME_LIMIT_EXCEEDED",
         "creationTimeSeconds": 1781858133,
         "problem": "979D"
-    },
-    {
-        "handle": "ngxnlgbao",
-        "name": "Nguyễn Lại Gia Bảo",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781149018,
-        "problem": "271A"
     },
     {
         "handle": "minhnguyendinhngoc",
