@@ -154,13 +154,6 @@
         "problem": "919D"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781598108,
-        "problem": "919D"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
@@ -259,11 +252,11 @@
         "problem": "2009G2"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1781597879,
-        "problem": "2009G2"
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1782444359,
+        "problem": "1184C2"
     },
     {
         "handle": "thnhann",
@@ -392,62 +385,6 @@
         "problem": "2237A"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781599007,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781598878,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781598742,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781598694,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781598608,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781598521,
-        "problem": "510C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781597064,
-        "problem": "919D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781596825,
-        "problem": "919D"
-    },
-    {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
         "verdict": "RUNTIME_ERROR",
@@ -560,13 +497,6 @@
         "problem": "842D"
     },
     {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781598034,
-        "problem": "919D"
-    },
-    {
         "handle": "ngxnlgbao",
         "name": "Nguyễn Lại Gia Bảo",
         "verdict": "OK",
@@ -607,13 +537,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1781853838,
         "problem": "510C"
-    },
-    {
-        "handle": "minhnguyendinhngoc",
-        "name": "Nguyễn Đình Ngọc Minh",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781601688,
-        "problem": "919D"
     },
     {
         "handle": "tmviet12310",
