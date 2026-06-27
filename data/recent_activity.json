@@ -331,6 +331,20 @@
     {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
+        "verdict": "OK",
+        "creationTimeSeconds": 1782545249,
+        "problem": "768B"
+    },
+    {
+        "handle": "TUANDUNGK32CBN",
+        "name": "Nghiêm Tuấn Dũng",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1782545222,
+        "problem": "768B"
+    },
+    {
+        "handle": "TUANDUNGK32CBN",
+        "name": "Nghiêm Tuấn Dũng",
         "verdict": "RUNTIME_ERROR",
         "creationTimeSeconds": 1782286264,
         "problem": "2038D"
@@ -481,6 +495,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1781853838,
         "problem": "510C"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1782528654,
+        "problem": "33A"
     },
     {
         "handle": "tmviet12310",
