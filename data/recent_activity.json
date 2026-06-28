@@ -112,34 +112,6 @@
         "problem": "510C"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1781777702,
-        "problem": "2236F2"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "MEMORY_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1781776320,
-        "problem": "2236F2"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781774592,
-        "problem": "2236F1"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1781774532,
-        "problem": "2236F1"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
@@ -313,6 +285,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1781793441,
         "problem": "2237A"
+    },
+    {
+        "handle": "TUANDUNGK32CBN",
+        "name": "Nghiêm Tuấn Dũng",
+        "verdict": "OK",
+        "creationTimeSeconds": 1782632854,
+        "problem": "348C"
     },
     {
         "handle": "TUANDUNGK32CBN",
