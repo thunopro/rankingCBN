@@ -259,13 +259,6 @@
         "problem": "2237F"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781925922,
-        "problem": "2237E"
-    },
-    {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
         "verdict": "OK",
@@ -432,12 +425,5 @@
         "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1782528654,
         "problem": "33A"
-    },
-    {
-        "handle": "tmviet12310",
-        "name": "Trần Minh Việt",
-        "verdict": "OK",
-        "creationTimeSeconds": 1781958176,
-        "problem": "600E"
     }
 ]
