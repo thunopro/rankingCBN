@@ -280,20 +280,6 @@
         "problem": "2172J"
     },
     {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1782044296,
-        "problem": "716E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782030545,
-        "problem": "766E"
-    },
-    {
         "handle": "TUANDUNGK32CBN",
         "name": "Nghiêm Tuấn Dũng",
         "verdict": "OK",
