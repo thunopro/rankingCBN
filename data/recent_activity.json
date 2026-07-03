@@ -287,13 +287,6 @@
         "problem": "106262H"
     },
     {
-        "handle": "TUANDUNGK32CBN",
-        "name": "Nghiêm Tuấn Dũng",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1782183541,
-        "problem": "1515G"
-    },
-    {
         "handle": "khuongvu100110",
         "name": "Khương Minh Vũ",
         "verdict": "OK",
