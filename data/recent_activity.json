@@ -170,6 +170,13 @@
     {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1783002528,
+        "problem": "241G"
+    },
+    {
+        "handle": "Nmt_1",
+        "name": "Nguyễn Minh Tuấn",
         "verdict": "TIME_LIMIT_EXCEEDED",
         "creationTimeSeconds": 1782833162,
         "problem": "2241B"
@@ -229,34 +236,6 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1782285278,
         "problem": "2038D"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782143181,
-        "problem": "716E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1782143150,
-        "problem": "716E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1782143065,
-        "problem": "716E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1782143005,
-        "problem": "716E"
     },
     {
         "handle": "TUANDUNGK32CBN",
