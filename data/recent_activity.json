@@ -206,6 +206,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1783431797,
+        "problem": "2242D"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1783294930,
         "problem": "2238D"
     },
@@ -301,20 +308,6 @@
         "problem": "348C"
     },
     {
-        "handle": "TUANDUNGK32CBN",
-        "name": "Nghiêm Tuấn Dũng",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782545249,
-        "problem": "768B"
-    },
-    {
-        "handle": "TUANDUNGK32CBN",
-        "name": "Nghiêm Tuấn Dũng",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1782545222,
-        "problem": "768B"
-    },
-    {
         "handle": "khuongvu100110",
         "name": "Khương Minh Vũ",
         "verdict": "OK",
@@ -390,12 +383,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1783349185,
         "problem": "2242A"
-    },
-    {
-        "handle": "tmviet12310",
-        "name": "Trần Minh Việt",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1782528654,
-        "problem": "33A"
     }
 ]
