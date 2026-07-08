@@ -161,20 +161,6 @@
         "problem": "2238A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782574146,
-        "problem": "2240B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782571546,
-        "problem": "2240A"
-    },
-    {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "COMPILATION_ERROR",
@@ -215,6 +201,20 @@
         "verdict": "OK",
         "creationTimeSeconds": 1783294930,
         "problem": "2238D"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1783436491,
+        "problem": "1681F"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "RUNTIME_ERROR",
+        "creationTimeSeconds": 1783436141,
+        "problem": "1681F"
     },
     {
         "handle": "thnhann",
@@ -306,41 +306,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1782632854,
         "problem": "348C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782576323,
-        "problem": "2240C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1782576200,
-        "problem": "2240C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1782576101,
-        "problem": "2240C"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782574211,
-        "problem": "2240B"
-    },
-    {
-        "handle": "khuongvu100110",
-        "name": "Khương Minh Vũ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782572430,
-        "problem": "2240A"
     },
     {
         "handle": "congmanh_9227",
