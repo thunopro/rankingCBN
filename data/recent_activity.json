@@ -192,6 +192,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1783506410,
+        "problem": "2240D"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1783431797,
         "problem": "2242D"
     },
@@ -299,13 +306,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1782835523,
         "problem": "1416D"
-    },
-    {
-        "handle": "TUANDUNGK32CBN",
-        "name": "Nghiêm Tuấn Dũng",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782632854,
-        "problem": "348C"
     },
     {
         "handle": "congmanh_9227",
