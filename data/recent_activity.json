@@ -98,69 +98,6 @@
         "problem": "768B"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782697684,
-        "problem": "768B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1782697601,
-        "problem": "768B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1782697525,
-        "problem": "768B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1782697320,
-        "problem": "768B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782664000,
-        "problem": "2238D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1782663477,
-        "problem": "2238D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782660362,
-        "problem": "2238C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782658392,
-        "problem": "2238B"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782657577,
-        "problem": "2238A"
-    },
-    {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "COMPILATION_ERROR",
@@ -192,6 +129,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1783524405,
+        "problem": "102082J"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1783506410,
         "problem": "2240D"
     },
@@ -208,6 +152,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1783294930,
         "problem": "2238D"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "COMPILATION_ERROR",
+        "creationTimeSeconds": 1783527484,
+        "problem": "813F"
     },
     {
         "handle": "thnhann",
