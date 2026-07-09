@@ -91,13 +91,6 @@
         "problem": "2241A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1782700907,
-        "problem": "768B"
-    },
-    {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "COMPILATION_ERROR",
@@ -152,6 +145,13 @@
         "verdict": "OK",
         "creationTimeSeconds": 1783294930,
         "problem": "2238D"
+    },
+    {
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1783606220,
+        "problem": "813F"
     },
     {
         "handle": "thnhann",
