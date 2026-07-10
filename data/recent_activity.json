@@ -121,6 +121,13 @@
     {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1783667033,
+        "problem": "2241E"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
         "creationTimeSeconds": 1783524405,
         "problem": "102082J"
