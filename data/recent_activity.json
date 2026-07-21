@@ -259,25 +259,18 @@
         "problem": "2242A"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
-        "creationTimeSeconds": 1783695732,
-        "problem": "2241E"
+        "creationTimeSeconds": 1784565014,
+        "problem": "2182F2"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1783695698,
-        "problem": "2241E"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1783694923,
-        "problem": "2241E"
+        "handle": "thnhann",
+        "name": "Nguyễn Thiện Nhân",
+        "verdict": "OK",
+        "creationTimeSeconds": 1784564586,
+        "problem": "2182F1"
     },
     {
         "handle": "thnhann",
