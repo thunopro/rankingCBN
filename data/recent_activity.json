@@ -894,5 +894,33 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1784385594,
         "problem": "2247A"
+    },
+    {
+        "handle": "ngxnlgbao",
+        "name": "Nguyễn Lại Gia Bảo",
+        "verdict": "OK",
+        "creationTimeSeconds": 1785139562,
+        "problem": "977F"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1785140564,
+        "problem": "102951C"
+    },
+    {
+        "handle": "minhnguyendinhngoc",
+        "name": "Nguyễn Đình Ngọc Minh",
+        "verdict": "OK",
+        "creationTimeSeconds": 1785138464,
+        "problem": "977F"
+    },
+    {
+        "handle": "tmviet12310",
+        "name": "Trần Minh Việt",
+        "verdict": "OK",
+        "creationTimeSeconds": 1785140531,
+        "problem": "977F"
     }
 ]
