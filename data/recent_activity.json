@@ -2,21 +2,21 @@
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
+        "verdict": null,
         "creationTimeSeconds": 1785861643,
         "problem": "2254F"
     },
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
+        "verdict": null,
         "creationTimeSeconds": 1785858736,
         "problem": "2254E"
     },
     {
         "handle": "viobow",
         "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
+        "verdict": null,
         "creationTimeSeconds": 1785857634,
         "problem": "2254D"
     },
@@ -273,18 +273,18 @@
         "problem": "2250A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1785051082,
-        "problem": "2240C"
-    },
-    {
         "handle": "Nmt_1",
         "name": "Nguyễn Minh Tuấn",
         "verdict": "OK",
         "creationTimeSeconds": 1785140322,
         "problem": "977F"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
+        "creationTimeSeconds": 1785896669,
+        "problem": "2244G"
     },
     {
         "handle": "nqhuy1405",
@@ -497,27 +497,6 @@
         "problem": "1879B"
     },
     {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1785073967,
-        "problem": "1879B"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1785031398,
-        "problem": "1352G"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1785031391,
-        "problem": "1352A"
-    },
-    {
         "handle": "thnhann",
         "name": "Nguyễn Thiện Nhân",
         "verdict": "OK",
@@ -600,20 +579,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1785076776,
         "problem": "2250A"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1785064052,
-        "problem": "2245E"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1785064022,
-        "problem": "2247E"
     },
     {
         "handle": "ngxnlgbao",
