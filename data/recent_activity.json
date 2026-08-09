@@ -217,13 +217,6 @@
         "problem": "263A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1785336764,
-        "problem": "50A"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
@@ -446,13 +439,6 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1785380231,
         "problem": "234D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1785340091,
-        "problem": "152A"
     },
     {
         "handle": "thnhann",
