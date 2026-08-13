@@ -287,18 +287,11 @@
         "problem": "2254A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
-        "creationTimeSeconds": 1785726202,
-        "problem": "1200E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1785726028,
-        "problem": "1200E"
+        "creationTimeSeconds": 1786601399,
+        "problem": "2154A"
     },
     {
         "handle": "nqhuy1405",
@@ -894,6 +887,20 @@
         "verdict": "OK",
         "creationTimeSeconds": 1786286237,
         "problem": "2256A"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "OK",
+        "creationTimeSeconds": 1786593513,
+        "problem": "682D"
+    },
+    {
+        "handle": "khuongvu100110",
+        "name": "Khương Minh Vũ",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1786593483,
+        "problem": "682C"
     },
     {
         "handle": "khuongvu100110",
