@@ -1,185 +1,17 @@
 [
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
-        "creationTimeSeconds": 1788337707,
-        "problem": "1030A"
+        "creationTimeSeconds": 1788366133,
+        "problem": "1566B"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
-        "creationTimeSeconds": 1788249671,
-        "problem": "2258C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1788221333,
-        "problem": "2258C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1788221300,
-        "problem": "2258C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "IDLENESS_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1788221267,
-        "problem": "2258C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1788221240,
-        "problem": "2258C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788181908,
-        "problem": "1290C"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1788181653,
-        "problem": "1291E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1788181603,
-        "problem": "1291E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788100861,
-        "problem": "116A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788020283,
-        "problem": "2258B2"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788014843,
-        "problem": "2258B1"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788014280,
-        "problem": "2258A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787909390,
-        "problem": "665E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1787908446,
-        "problem": "665E"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "PARTIAL",
-        "creationTimeSeconds": 1787879550,
-        "problem": "2251A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "PARTIAL",
-        "creationTimeSeconds": 1787879429,
-        "problem": "2251A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "PARTIAL",
-        "creationTimeSeconds": 1787875932,
-        "problem": "2251A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787839667,
-        "problem": "271A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "PARTIAL",
-        "creationTimeSeconds": 1787701117,
-        "problem": "2251A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "PARTIAL",
-        "creationTimeSeconds": 1787699785,
-        "problem": "2251A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787670789,
-        "problem": "41A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1787670727,
-        "problem": "41A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1787669255,
-        "problem": "41A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787500736,
-        "problem": "96A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1787500703,
-        "problem": "96A"
+        "creationTimeSeconds": 1788365931,
+        "problem": "166A"
     },
     {
         "handle": "nqhuy1405",
@@ -866,20 +698,6 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1787889213,
         "problem": "1943A"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787887821,
-        "problem": "2237A"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1787887329,
-        "problem": "1980C"
     },
     {
         "handle": "thnhann",
