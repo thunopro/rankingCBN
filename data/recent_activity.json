@@ -196,13 +196,6 @@
         "problem": "266B"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1788337707,
-        "problem": "1030A"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "COMPILATION_ERROR",
