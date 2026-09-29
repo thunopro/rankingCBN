@@ -663,12 +663,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1789809794,
         "problem": "2091E"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1789778747,
-        "problem": "2091E"
     }
 ]
