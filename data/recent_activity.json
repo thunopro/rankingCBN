@@ -446,12 +446,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1790071002,
         "problem": "1175A"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790047501,
-        "problem": "1700B"
     }
 ]
