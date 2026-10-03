@@ -49,41 +49,6 @@
         "problem": "160A"
     },
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790154273,
-        "problem": "2246D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "RUNTIME_ERROR",
-        "creationTimeSeconds": 1790153948,
-        "problem": "2246D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790153856,
-        "problem": "2246D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790153775,
-        "problem": "2246D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790152177,
-        "problem": "2246D"
-    },
-    {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "WRONG_ANSWER",
@@ -334,40 +299,5 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1790234768,
         "problem": "1399D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790137277,
-        "problem": "1305C"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790136212,
-        "problem": "1923B"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790135352,
-        "problem": "1923B"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790135313,
-        "problem": "1923B"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790134727,
-        "problem": "1923B"
     }
 ]
