@@ -1,52 +1,10 @@
 [
     {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790264156,
-        "problem": "1462E1"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790264064,
-        "problem": "1462E1"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790263921,
-        "problem": "1462E2"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790262532,
-        "problem": "888D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790261720,
-        "problem": "888D"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790238332,
-        "problem": "160A"
-    },
-    {
-        "handle": "viobow",
-        "name": "Lê Đình Triệu Vĩ",
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1790238293,
-        "problem": "160A"
+        "creationTimeSeconds": 1791103726,
+        "problem": "977F"
     },
     {
         "handle": "nqhuy1405",
@@ -271,33 +229,5 @@
         "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1790331563,
         "problem": "2266B"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790235550,
-        "problem": "1775A2"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1790235260,
-        "problem": "1399D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "TIME_LIMIT_EXCEEDED",
-        "creationTimeSeconds": 1790235066,
-        "problem": "1399D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1790234768,
-        "problem": "1399D"
     }
 ]
