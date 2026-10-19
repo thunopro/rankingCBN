@@ -2,7 +2,7 @@
     {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
-        "verdict": null,
+        "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1792290761,
         "problem": "1671A"
     },
@@ -173,19 +173,5 @@
         "verdict": "OK",
         "creationTimeSeconds": 1791516733,
         "problem": "2101C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1791479624,
-        "problem": "2275F"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1791479495,
-        "problem": "2275F"
     }
 ]
