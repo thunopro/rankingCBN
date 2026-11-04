@@ -3,6 +3,27 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1793790041,
+        "problem": "699A"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
+        "creationTimeSeconds": 1793789511,
+        "problem": "1316A"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
+        "creationTimeSeconds": 1793789298,
+        "problem": "1332A"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1793697312,
         "problem": "1582A"
     },
@@ -88,13 +109,6 @@
         "name": "Nguyễn Quang Huy",
         "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1793032324,
-        "problem": "977F"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1792940521,
         "problem": "977F"
     },
     {
