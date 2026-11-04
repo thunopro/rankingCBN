@@ -145,19 +145,5 @@
         "verdict": "WRONG_ANSWER",
         "creationTimeSeconds": 1793345335,
         "problem": "121C"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1792899157,
-        "problem": "101192B"
-    },
-    {
-        "handle": "thnhann",
-        "name": "Nguyễn Thiện Nhân",
-        "verdict": "OK",
-        "creationTimeSeconds": 1792898972,
-        "problem": "101192B"
     }
 ]
