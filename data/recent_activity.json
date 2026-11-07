@@ -2,6 +2,13 @@
     {
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
+        "verdict": "WRONG_ANSWER",
+        "creationTimeSeconds": 1794019079,
+        "problem": "1384A"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
         "verdict": "OK",
         "creationTimeSeconds": 1793978864,
         "problem": "1795C"
