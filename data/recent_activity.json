@@ -138,12 +138,5 @@
         "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1794151955,
         "problem": "1384B2"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "WRONG_ANSWER",
-        "creationTimeSeconds": 1794019079,
-        "problem": "1384A"
     }
 ]
