@@ -3,6 +3,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1795096953,
+        "problem": "1493A"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1795012903,
         "problem": "2257B"
     },
@@ -173,13 +180,6 @@
         "verdict": "OK",
         "creationTimeSeconds": 1794280028,
         "problem": "1272D"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "OK",
-        "creationTimeSeconds": 1794209408,
-        "problem": "1384A"
     },
     {
         "handle": "TUANDUNGK32CBN",
