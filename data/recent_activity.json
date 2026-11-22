@@ -3,6 +3,13 @@
         "handle": "nqhuy1405",
         "name": "Nguyễn Quang Huy",
         "verdict": "OK",
+        "creationTimeSeconds": 1795357151,
+        "problem": "1788C"
+    },
+    {
+        "handle": "nqhuy1405",
+        "name": "Nguyễn Quang Huy",
+        "verdict": "OK",
         "creationTimeSeconds": 1795240229,
         "problem": "2050D"
     },
@@ -166,13 +173,6 @@
         "verdict": "COMPILATION_ERROR",
         "creationTimeSeconds": 1794578428,
         "problem": "33A"
-    },
-    {
-        "handle": "nqhuy1405",
-        "name": "Nguyễn Quang Huy",
-        "verdict": "COMPILATION_ERROR",
-        "creationTimeSeconds": 1794469383,
-        "problem": "977F"
     },
     {
         "handle": "TUANDUNGK32CBN",
